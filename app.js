@@ -14,5 +14,5 @@ function calcular() {
 
 const borrarBtn = document.getElementById("borrar");
 borrarBtn.addEventListener("click", function () {
-  document.getElementById("my-form").reset();
+  document.getElementById("anssal", "aporte").value="0"();
 });
